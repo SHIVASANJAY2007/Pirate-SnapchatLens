@@ -1,0 +1,13 @@
+/Cache/
+/Workspaces/
+/.vs/
+/Library/
+/obj/
+/bin/
+*.user/
+*.userprefs/
+/Temporary/
+/Debug/
+/Release/
+
+

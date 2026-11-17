@@ -1,0 +1,29 @@
+- !<AssetImportMetadata/e05d7ac7-e129-47c1-93c7-5892e6f8a1ec>
+  ImportedAssetIds:
+    Pirate_Tricorne_Hat___Accessories: !<reference> 30090dec-11b6-4fc6-b676-1834c30d14dd
+  ImporterName: GaussianSplattingAssetImporter
+  PrimaryAsset: !<reference> 30090dec-11b6-4fc6-b676-1834c30d14dd
+  PackageType: NotAPackage
+  LegacyPackagePolicy: ~
+  ExtraData:
+    USE_EASY_LENS: ""
+  AssetDataMap:
+    Pirate_Tricorne_Hat___Accessories: !<own> 434a6cbe-1b16-4a5d-be67-241d11274dbc
+  DependentFiles:
+    []
+  ImporterSettings: !<GaussianSplattingImporterSettings>
+    CompressionProfile: Balanced
+    BitsCenter: 10
+    BitsScale: 10
+    BitsRotation: 8
+    QuatPackingMethod: Automatic
+    BitsColor: 7
+    MortonOrder: false
+    MinimumOpacity: 0.000000
+    CalculateCompressionStats: false
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<GaussianSplattingAssetData/434a6cbe-1b16-4a5d-be67-241d11274dbc>
+  Recenter: false
+  Pivot: {x: 0.000000, y: 0.000000, z: 0.000000}
+  FlipXY: true
+  Scale: 1.000000
